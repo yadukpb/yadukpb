@@ -14,7 +14,6 @@ These days I'm mostly into **agentic systems**, the kind of AI agents that call 
 
 - 🎓 CSE grad from IIIT Dharwad, class of 2025
 - 🏆 Won Make-A-Ton 7.0 with a learning app for kids with dyslexia, and Velohack 1.0 with a digital outpass system for my college
-- ⚽ Captained my college football team at the Inter-IIIT tournament
 
 ### Things I work with
 
